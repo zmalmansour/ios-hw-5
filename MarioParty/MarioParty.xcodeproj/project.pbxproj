@@ -14,12 +14,12 @@
 		9449EE4B24299E6D006D3BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE4A24299E6D006D3BD4 /* Assets.xcassets */; };
 		9449EE4E24299E6D006D3BD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE4C24299E6D006D3BD4 /* LaunchScreen.storyboard */; };
 		9449EE5824299FDB006D3BD4 /* SuperMario256.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE5724299FDA006D3BD4 /* SuperMario256.ttf */; };
-		9449EE682429B4FA006D3BD4 /* LUIGI_3.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE672429B4F9006D3BD4 /* LUIGI_3.WAV */; };
-		9449EE6A2429B503006D3BD4 /* MARIO_3.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE692429B503006D3BD4 /* MARIO_3.WAV */; };
-		9449EE6C2429B50B006D3BD4 /* PEACH_3.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE6B2429B50B006D3BD4 /* PEACH_3.WAV */; };
-		9449EE6E2429B51E006D3BD4 /* WALUIGI_3.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE6D2429B51E006D3BD4 /* WALUIGI_3.WAV */; };
-		9449EE722429B54B006D3BD4 /* YOSHI_2.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE712429B54B006D3BD4 /* YOSHI_2.WAV */; };
-		9449EE742429B5A4006D3BD4 /* BOWSER_3.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE732429B5A4006D3BD4 /* BOWSER_3.WAV */; };
+		9449EE682429B4FA006D3BD4 /* Luigi.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE672429B4F9006D3BD4 /* Luigi.WAV */; };
+		9449EE6A2429B503006D3BD4 /* Mario.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE692429B503006D3BD4 /* Mario.WAV */; };
+		9449EE6C2429B50B006D3BD4 /* Peach.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE6B2429B50B006D3BD4 /* Peach.WAV */; };
+		9449EE6E2429B51E006D3BD4 /* Waluigi.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE6D2429B51E006D3BD4 /* Waluigi.WAV */; };
+		9449EE722429B54B006D3BD4 /* Yoshi.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE712429B54B006D3BD4 /* Yoshi.WAV */; };
+		9449EE742429B5A4006D3BD4 /* Bowser.WAV in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE732429B5A4006D3BD4 /* Bowser.WAV */; };
 		9449EE762429F105006D3BD4 /* BG.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE752429F105006D3BD4 /* BG.wav */; };
 		9449EE782429F136006D3BD4 /* Koopa.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9449EE772429F136006D3BD4 /* Koopa.wav */; };
 		D22BA088242A4006002EC169 /* MarioCharactersAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D22BA087242A4006002EC169 /* MarioCharactersAssets.xcassets */; };
@@ -35,12 +35,12 @@
 		9449EE4D24299E6D006D3BD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9449EE4F24299E6D006D3BD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9449EE5724299FDA006D3BD4 /* SuperMario256.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SuperMario256.ttf; sourceTree = "<group>"; };
-		9449EE672429B4F9006D3BD4 /* LUIGI_3.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = LUIGI_3.WAV; sourceTree = "<group>"; };
-		9449EE692429B503006D3BD4 /* MARIO_3.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = MARIO_3.WAV; sourceTree = "<group>"; };
-		9449EE6B2429B50B006D3BD4 /* PEACH_3.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = PEACH_3.WAV; sourceTree = "<group>"; };
-		9449EE6D2429B51E006D3BD4 /* WALUIGI_3.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = WALUIGI_3.WAV; sourceTree = "<group>"; };
-		9449EE712429B54B006D3BD4 /* YOSHI_2.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = YOSHI_2.WAV; sourceTree = "<group>"; };
-		9449EE732429B5A4006D3BD4 /* BOWSER_3.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BOWSER_3.WAV; sourceTree = "<group>"; };
+		9449EE672429B4F9006D3BD4 /* Luigi.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Luigi.WAV; sourceTree = "<group>"; };
+		9449EE692429B503006D3BD4 /* Mario.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Mario.WAV; sourceTree = "<group>"; };
+		9449EE6B2429B50B006D3BD4 /* Peach.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Peach.WAV; sourceTree = "<group>"; };
+		9449EE6D2429B51E006D3BD4 /* Waluigi.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Waluigi.WAV; sourceTree = "<group>"; };
+		9449EE712429B54B006D3BD4 /* Yoshi.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Yoshi.WAV; sourceTree = "<group>"; };
+		9449EE732429B5A4006D3BD4 /* Bowser.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Bowser.WAV; sourceTree = "<group>"; };
 		9449EE752429F105006D3BD4 /* BG.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BG.wav; sourceTree = "<group>"; };
 		9449EE772429F136006D3BD4 /* Koopa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Koopa.wav; sourceTree = "<group>"; };
 		D22BA087242A4006002EC169 /* MarioCharactersAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = MarioCharactersAssets.xcassets; sourceTree = "<group>"; };
@@ -102,12 +102,12 @@
 		D22BA085242A3FE4002EC169 /* Character Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				9449EE672429B4F9006D3BD4 /* LUIGI_3.WAV */,
-				9449EE692429B503006D3BD4 /* MARIO_3.WAV */,
-				9449EE6B2429B50B006D3BD4 /* PEACH_3.WAV */,
-				9449EE6D2429B51E006D3BD4 /* WALUIGI_3.WAV */,
-				9449EE712429B54B006D3BD4 /* YOSHI_2.WAV */,
-				9449EE732429B5A4006D3BD4 /* BOWSER_3.WAV */,
+				9449EE672429B4F9006D3BD4 /* Luigi.WAV */,
+				9449EE692429B503006D3BD4 /* Mario.WAV */,
+				9449EE6B2429B50B006D3BD4 /* Peach.WAV */,
+				9449EE6D2429B51E006D3BD4 /* Waluigi.WAV */,
+				9449EE712429B54B006D3BD4 /* Yoshi.WAV */,
+				9449EE732429B5A4006D3BD4 /* Bowser.WAV */,
 				9449EE772429F136006D3BD4 /* Koopa.wav */,
 			);
 			path = "Character Sounds";
@@ -179,18 +179,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9449EE742429B5A4006D3BD4 /* BOWSER_3.WAV in Resources */,
+				9449EE742429B5A4006D3BD4 /* Bowser.WAV in Resources */,
 				9449EE4E24299E6D006D3BD4 /* LaunchScreen.storyboard in Resources */,
-				9449EE6A2429B503006D3BD4 /* MARIO_3.WAV in Resources */,
+				9449EE6A2429B503006D3BD4 /* Mario.WAV in Resources */,
 				9449EE5824299FDB006D3BD4 /* SuperMario256.ttf in Resources */,
 				D22BA088242A4006002EC169 /* MarioCharactersAssets.xcassets in Resources */,
-				9449EE722429B54B006D3BD4 /* YOSHI_2.WAV in Resources */,
+				9449EE722429B54B006D3BD4 /* Yoshi.WAV in Resources */,
 				9449EE4B24299E6D006D3BD4 /* Assets.xcassets in Resources */,
-				9449EE6C2429B50B006D3BD4 /* PEACH_3.WAV in Resources */,
+				9449EE6C2429B50B006D3BD4 /* Peach.WAV in Resources */,
 				9449EE762429F105006D3BD4 /* BG.wav in Resources */,
-				9449EE6E2429B51E006D3BD4 /* WALUIGI_3.WAV in Resources */,
+				9449EE6E2429B51E006D3BD4 /* Waluigi.WAV in Resources */,
 				9449EE4924299E69006D3BD4 /* Main.storyboard in Resources */,
-				9449EE682429B4FA006D3BD4 /* LUIGI_3.WAV in Resources */,
+				9449EE682429B4FA006D3BD4 /* Luigi.WAV in Resources */,
 				9449EE782429F136006D3BD4 /* Koopa.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -355,7 +355,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dalhazeem.MarioParty;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kuwaitCodes.MarioParty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -373,7 +373,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = dalhazeem.MarioParty;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kuwaitCodes.MarioParty;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
