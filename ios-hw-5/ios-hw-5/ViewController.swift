@@ -65,19 +65,19 @@ class ViewController: UIViewController {
 struct Actor1 {
     var name: String = ""
     var characterName: String
-    var age: Double
+    var age: Int
     var hobbies: String
 
 }
 
 var actors: [Actor1] = [
-    Actor1(name: "Jennifer Aniston", characterName: "Rachel Green", age: 50, hobbies: "modeling"),
+    Actor1(name: "Jennifer Aniston", characterName: "Rachel Green", age: 51, hobbies: "Shopping"),
     
-    Actor1(name: "Courtney Cox", characterName: "Monica Giller", age: 50, hobbies: "cooking"),
+    Actor1(name: "Courtney Cox", characterName: "Monica Giller", age: 56, hobbies: "Cooking"),
     
-    Actor1(name: "Matthew Perry", characterName: "Chandler Bing", age: 50, hobbies: "telling jokes"),
+    Actor1(name: "Matthew Perry", characterName: "Chandler Bing", age: 50, hobbies: "Joking"),
     
-    Actor1(name: "Matt LeBlanc", characterName: "Joey Tribbiani", age: 50, hobbies: "eating")
+    Actor1(name: "Matt LeBlanc", characterName: "Joey Tribbiani", age: 52, hobbies: "Eating")
 
 
 
